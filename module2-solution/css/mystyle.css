@@ -3,7 +3,7 @@
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px){
-
+  
 }
 
 @media only screen and (max-width: 767px){
@@ -25,42 +25,41 @@ h1{
 div#container1{
 	background-color: gray;
 	position: absolute;
-	width: 600px;
+	width: 30%;
 	height: 200px;
 	margin-top:75px;
-	margin-left: 25px;
+	margin-left: 2%;
 	border-style: solid;
 }
 
 div#container2{
 	background-color: gray;
 	position: absolute;
-	width: 600px;
+	width: 30%;
 	height: 200px;
 	margin-top:75px;
-	margin-left: 665px;
+	margin-left: 35%;
 	border-style: solid;
 }
 
 div#container3{
 	background-color: gray;
 	position: absolute;
-	width: 600px;
+	width: 30%;
 	height: 200px;
 	margin-top:75px;
-	margin-left: 1300px;
+	margin-left: 68%;
 	border-style: solid;
 }
 
 #p1{
 	background-color: orangered;
 	position: relative;
-	width: 150px;
-	height: 50px;
+	width: 35%;
+	height: 25%;
 	top: 0px;
-	left: 0px;
+	left: 65%;
 	text-align: center;
-	margin-left: 446px;
 	padding-top: 12px;
 	border-style: solid;
 	font-size: 16px;
@@ -69,12 +68,11 @@ div#container3{
 #p2{
 	background-color: yellow;
 	position: relative;
-	width: 150px;
-	height: 50px;
+	width: 35%;
+	height: 25%;
 	top: 0px;
-	left: 0px;
+	left: 65%;
 	text-align: center;
-	margin-left: 446px;
 	padding-top: 12px;
 	border-style: solid;
 	font-size: 16px;
@@ -83,12 +81,11 @@ div#container3{
 #p3{
 	background-color: deeppink;
 	position: relative;
-	width: 150px;
-	height: 50px;
+	width: 35%;
+	height: 25%;
 	top: 0px;
-	left: 0px;
+	left: 65%;
 	text-align: center;
-	margin-left: 446px;
 	padding-top: 12px;
 	border-style: solid;
 	font-size: 16px;
